@@ -6,4 +6,4 @@ I run this script on a Raspberry Pi v3 and use Cron to run it once every 10 minu
 */10 * * * * /usr/bin/python3 /home/pi/scraper_latest.py  >> /home/pi/scripts/script.log
 
 
-Disclaimer: I am no Python developer or an expert on building Python scripts. 
+Disclaimer: I am no Python developer or an expert on building Python scripts. But maybe I am a skilled Google search user ;-)
