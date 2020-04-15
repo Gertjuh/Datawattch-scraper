@@ -4,3 +4,6 @@ Version 2 is a working version that only retrieves the total Kwh delivered.
 A new version must also contain the other data available on the Datawattch page.
 I run this script on a Raspberry Pi v3 and use Cron to run it once every 10 minutes.
 */10 * * * * /usr/bin/python3 /home/pi/scraper_latest.py  >> /home/pi/scripts/script.log
+
+
+Disclaimer: I am no Python developer or an expert on building Python scripts. 
