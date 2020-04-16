@@ -29,5 +29,4 @@ sensor:
         device_class: timestamp
 
 
-
 Disclaimer: I am no Python developer or an expert on building Python scripts. But maybe I am a skilled Google search user ;-)
