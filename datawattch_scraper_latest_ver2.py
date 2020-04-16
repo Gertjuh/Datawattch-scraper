@@ -1,6 +1,6 @@
 #########################################################################################################
 # This Python script is build by Gert Koolwijk after only 2 weeks of study on Python.                   #
-# A 'thank you' is much appreciated @ gert.koolwijk@gmail.com                                           #
+# A 'thank you' is much appreciated @ datawattch@gmail.com                                           #
 # Also any feedback with suggestions for improvements are much appreciated.                             #
 # To run this script using Crontab you must have the file located in the home directory (e.g. /home/pi) #
 # The user must be the @Datawattch registered e-mail address like "my.email@gmail.com" including quotes #
