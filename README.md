@@ -27,5 +27,8 @@ sensor:
           {{ values | min }}
         device_class: timestamp
 
+Work in progress:
+1) build a second script to scrape the actual Watts delivered by the panels and run it every 5 min.
+2) change the total_today script to run once a day.
 
 Disclaimer: I am no Python developer or an expert on building Python scripts. But maybe I am a skilled Google search user ;-)
