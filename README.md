@@ -9,7 +9,6 @@ I send the data via MQTT to Home Assistant.
 I hav this in my sensors.yaml file:
 
 # Zonnepanelen
-#
 sensor:
   - platform: "mqtt"
     name: Geleverd vandaag
