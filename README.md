@@ -8,7 +8,7 @@ I run these scripts on a Raspberry Pi v3 using cron.
 */14 4-23 * * * /usr/bin/python3 /home/pi/scraper_totals.py >> /home/pi/logs/scraper_totals.log
 56 23 * * * /usr/bin/python3 /home/pi/scraper_totals.py >> /home/pi/logs/scraper_totals.log
 
-I send the data via MQTT to Home Assistant.
+I send the data via MQTT to Home Assistant. I then save historical data to InfluxDB and visualize it with Grafana. See the Dashboard in de Wiki pages.
 
 
 Disclaimer: I am not a Python developer or an expert on building Python scripts. But maybe I am a skilled Google search user ;-)
