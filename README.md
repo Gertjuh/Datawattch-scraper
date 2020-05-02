@@ -1,4 +1,4 @@
-# Datawattch-scraper to MQTT
+# Datawattch-scraper solarpanel data to MQTT
 Two Python scripts to scrape data on the production of solar panels from the Datawattch website (https://app.datawattch.com/app)
 Version 2 of the scripts are the working versions that retrieve both current Watts delivered as the totals up till the moment the script is run.
 
